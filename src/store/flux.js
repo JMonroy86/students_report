@@ -132,9 +132,9 @@ const getState = ({ getStore, getActions, setStore }) => {
                         "css": 60,
                         "bootstrap": 80,
                         "git": 60,
-                        "js": 80,
-                        "react": 80,
-                        "reactContext": 90,
+                        "js": 60,
+                        "react": 70,
+                        "reactContext": 60,
                         "python": 0,
                     }
                 },
